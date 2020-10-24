@@ -5,3 +5,4 @@ Front end of blogger app.
 - Then move to the project directory using `cd` command.
 - Then in that directory run the command `npm i` and then run the command `npm run dev`.
 - Then follow this link [http://localhost:3000](http://localhost:3000).
+> This repo has two branches all the files are in master branch and this particular branch is hosted.
